@@ -1,4 +1,4 @@
-# txrwxr
+
 <div align=center> 
   <h1> Hi! I'm Tarwar 😎🏴‍☠️ </h1>
 </div>
@@ -16,6 +16,7 @@
 ➤ Vulnerability Assessment <br>
 ➤ Ethical Hacking <br>
 ➤ Linux Administration <br>
+➤ Windows Administration <br>
 ➤ Networking <br>
 ➤ Reverse Engineering <br>
 ➤ Malware Analysis <br>
