@@ -7,10 +7,7 @@
 ➤ Web Application Penetration Testing <br>
 ➤ Network Penetration Testing <br>
 ➤ Active Directory Penetration Testing <br>
-➤ Mobile Application Penetration Testing <br>
-➤ API Penetration Testing <br>
-➤ Thich Client Penetration Testing <br>
-➤ Thin Client Penetration Testing <br>
+
 
 ### Other Skills
 ➤ Vulnerability Assessment <br>
@@ -21,7 +18,6 @@
 ➤ Reverse Engineering <br>
 ➤ Malware Analysis <br>
 ➤ Security Operations <br>
-➤ Digital Forensics <br>
 ➤ Incident Response <br>
 
 ### Software & Tool Knowledge 
