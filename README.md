@@ -9,8 +9,8 @@
 ➤ Active Directory Penetration Testing <br>
 
 ### Cloud Skills
-➤ Azure Security
-➤ AWS Security
+➤ Azure Security <br>
+➤ AWS Security <br>
 
 ### Other Skills
 ➤ Vulnerability Assessment <br>
