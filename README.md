@@ -8,6 +8,9 @@
 ➤ Network Penetration Testing <br>
 ➤ Active Directory Penetration Testing <br>
 
+### Cloud Skills
+➤ Azure Security
+➤ AWS Security
 
 ### Other Skills
 ➤ Vulnerability Assessment <br>
@@ -28,7 +31,8 @@
 ➤ <b>SCANNING</b> → Nessus / Acuentix / Qualys / Netsparker <br>
 ➤ <b>MOBILE</b> → OWASP Top 10 / Burpsuite / Frida <br>
 ➤ <b>OSINT</b> → SpiderFoot / Maltego / Recon-ng <br>
-➤ <b>VIRTUALIZATION</b> → Virtual Box / VMware / UTM / Parallels <br>
+➤ <b>CLOUD PLATFORMS</b> → Azure / AWS / Google Cloud <br>
+➤ <b>VIRTUALIZATION</b> → Virtual Box / VMware / Hyper-V / UTM / Parallels <br>
 ➤ <b>MALWARE ANALYSIS</b> → PEstudio / Procmon / Fiddler / Wireshark / Ghidra / Remnux <br>
 ➤ <b>OPERATING SYSTEM</b> → Windows / Mac / Linux (Ubuntu, Kali, Parrot, Remnux, Santaku) <br>
 ➤ <b>THREAT AND VULNERABILITY MANAGEMENT</b> → Nessus / MITRE / Yara / ISAC / MISP <br>
